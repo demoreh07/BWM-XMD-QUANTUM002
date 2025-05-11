@@ -21,7 +21,7 @@
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
       "value": "yes",
-      "required": false
+      "required": true
     },
     "AUTO_REPLY_STATUS": {
       "description": "Enter yes for your bot to notify people that you have viewed there status",
